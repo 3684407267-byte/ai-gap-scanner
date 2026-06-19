@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "versionCode": 8,
+  "version": "1.2.1",
+  "versionCode": 9,
   "apkUrl": "https://github.com/3684407267-byte/ai-gap-scanner/releases/latest/download/app-release.apk",
-  "releaseNotes": "【重要】更新检查改为多路回退（直连→镜像→CDN），不再依赖单一镜像；新增深色模式；下载实时进度条；AI对话历史记录"
+  "releaseNotes": "测试更新通道v1.2.1 — 多路回退更新检查"
 }
