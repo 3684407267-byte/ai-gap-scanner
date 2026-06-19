@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
-  "versionCode": 7,
+  "version": "1.2.0",
+  "versionCode": 8,
   "apkUrl": "https://github.com/3684407267-byte/ai-gap-scanner/releases/latest/download/app-release.apk",
-  "releaseNotes": "新增深色模式（设置→外观）；更新检查和下载走国内镜像，无需VPN零延迟"
+  "releaseNotes": "【重要】更新检查改为多路回退（直连→镜像→CDN），不再依赖单一镜像；新增深色模式；下载实时进度条；AI对话历史记录"
 }
