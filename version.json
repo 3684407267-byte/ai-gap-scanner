@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "versionCode": 4,
+  "version": "1.1.2",
+  "versionCode": 5,
   "apkUrl": "https://github.com/3684407267-byte/ai-gap-scanner/releases/latest/download/app-release.apk",
-  "releaseNotes": "下载加速：国内用户自动走镜像，下载速度提升10倍；新增下载进度条显示"
+  "releaseNotes": "更新检查改用国内CDN（jsDelivr），不开VPN也能检查更新；下载走国内镜像加速；新增实时下载进度条；新增AI对话历史记录"
 }
