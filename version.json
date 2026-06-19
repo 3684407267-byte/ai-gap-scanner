@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "versionCode": 9,
+  "version": "1.2.2",
+  "versionCode": 10,
   "apkUrl": "https://github.com/3684407267-byte/ai-gap-scanner/releases/latest/download/app-release.apk",
-  "releaseNotes": "测试更新通道v1.2.1 — 多路回退更新检查"
+  "releaseNotes": "v1.2.2 — 修复每次生成题目相同的问题；优化下载提示文案"
 }
